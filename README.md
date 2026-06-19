@@ -16,7 +16,8 @@ User → NLB → Target Group → Auto Scaling Group → EC2
 
 ## NLB Created
 
-![NLB](screenshots/nlb-created.png)
+<img width="959" height="310" alt="NLB" src="https://github.com/user-attachments/assets/42afb0ed-12ba-40f4-8655-c96d6e48c93b" />
+
 
 ## Auto Scaling Group
 
