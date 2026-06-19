@@ -7,7 +7,8 @@ User → NLB → Target Group → Auto Scaling Group → EC2
 
 ## Launch Template
 
-![Launch Template](screenshots/launch-template.png)
+<img width="943" height="367" alt="launch template" src="https://github.com/user-attachments/assets/b45d7974-9480-4aa1-b675-4f35fedfafb3" />
+
 
 ## Target Group Healthy
 
