@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Scalable Web App with NLB and Auto Scaling
 
 ## Architecture
@@ -27,3 +28,6 @@ User → NLB → Target Group → Auto Scaling Group → EC2
 ## Browser Output
 
 ![Output](screenshots/browser-output.png)
+=======
+# nlb-auto-scaling-webapp
+>>>>>>> 50c048125f6b84c3be95708f2132d3983bb329b9
